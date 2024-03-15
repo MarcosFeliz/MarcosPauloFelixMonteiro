@@ -1,9 +1,8 @@
 <div align=center>
 
 # Marcos Felix
-
-INFORMAÇÕES DO FELIX
-
+Eu sou aspirante a programador e desenvolvedor. Sou aluno do IFAP e pretendo seguir na área, sempre me aprimorando, e capacitando, cada vez mais e mais na área de programação.
+Estou aberto a novas experiências e oportunidades no ramo, sendo estas remuneradas ou não.
 </div>
 
 <div align=center>
