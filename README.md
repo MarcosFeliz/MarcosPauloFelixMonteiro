@@ -33,9 +33,7 @@ INFORMAÇÕES DO FELIX
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abymael1895}/count.svg" /></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThomasTarso}/count.svg" /></p>
+<br><p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcosFelix}/count.svg" /></p>
 <br>
 </div>
