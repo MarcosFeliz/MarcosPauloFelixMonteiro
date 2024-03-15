@@ -31,8 +31,11 @@ INFORMAÇÕES DO FELIX
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosPauloFelixMonteiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 </div>
-<div align=center>
-  
-![GitHub Stats]https://github.com/MarcosFelix?tab=readme-ov-file#----visitors-count-----
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abymael1895}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ThomasTarso}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcosFelix}/count.svg" /></p>
+<br>
 </div>
