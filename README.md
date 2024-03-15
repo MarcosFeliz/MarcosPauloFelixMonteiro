@@ -31,3 +31,8 @@ INFORMAÇÕES DO FELIX
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarcosPauloFelixMonteiro&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 </div>
+<div align=center>
+  
+![GitHub Stats]https://github.com/MarcosFelix?tab=readme-ov-file#----visitors-count-----
+
+</div>
